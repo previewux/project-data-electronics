@@ -1,18 +1,5 @@
 [
     {
-        "id": "517131fddddd",
-        "image_url": "https://images.unsplash.com/photo-1610196600828-517131fddddd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxKcEFLNEZuVm9LSXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-        "catagory": "headphone",
-        "name": "music headphone",
-        "price": 44,
-        "former_price": 50,
-        "brand": "jvc",
-        "sub_catagory": "accessories",
-        "country_origin": "china",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
-    },
-    {
         "id": "d8113b290d47",
         "image_url": "https://images.unsplash.com/photo-1498049794561-7780e7231661?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjl8SnBBSzRGblZvS0l8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "catagory": "headphone",
@@ -22,6 +9,19 @@
         "brand": "sony",
         "sub_catagory": "accessories",
         "country_origin": "korea",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
+        "warranty": 6
+    },
+    {
+        "id": "517131fddddd",
+        "image_url": "https://images.unsplash.com/photo-1610196600828-517131fddddd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxKcEFLNEZuVm9LSXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "catagory": "headphone",
+        "name": "music headphone",
+        "price": 44,
+        "former_price": 50,
+        "brand": "jvc",
+        "sub_catagory": "accessories",
+        "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
         "warranty": 6
     },
