@@ -10,7 +10,12 @@
         "sub_catagory": "accessories",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "517131fddddd",
@@ -19,11 +24,16 @@
         "name": "music headphone",
         "price": 44,
         "former_price": 50,
-        "brand": "jvc",
+        "brand": "sony",
         "sub_catagory": "accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "a47ad25cb82a",
@@ -36,7 +46,12 @@
         "sub_catagory": "accessories",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "b4ef7ba99bc3",
@@ -49,7 +64,12 @@
         "sub_catagory": "accessories",
         "country_origin": "india",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "369cc8459c08",
@@ -62,7 +82,12 @@
         "sub_catagory": "accessories",
         "country_origin": "india",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "9c19a791bbea",
@@ -75,7 +100,12 @@
         "sub_catagory": "chipset",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "08db958ba215",
@@ -88,7 +118,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "e0b7a554873a",
@@ -101,7 +136,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "0d72fb6a45e6",
@@ -114,7 +154,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "77c727173bab",
@@ -127,7 +172,12 @@
         "sub_catagory": "camara",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "89182b77de51",
@@ -140,7 +190,12 @@
         "sub_catagory": "camara",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "e71c5993d6cd",
@@ -153,7 +208,12 @@
         "sub_catagory": "chipset",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "13cf4862a80f",
@@ -166,7 +226,12 @@
         "sub_catagory": "chipset",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "5fabbafa84eb",
@@ -179,7 +244,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "b1ce696e52c9",
@@ -192,7 +262,12 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "7efd1f1555ed",
@@ -205,7 +280,12 @@
         "sub_catagory": "laptop",
         "country_origin": "indonasiya",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 2
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "eefc4ee92e35",
@@ -218,7 +298,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "510d29587dac",
@@ -231,7 +316,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "510d29587dac",
@@ -244,7 +334,12 @@
         "sub_catagory": "appcomputer accessoriesle",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "647eb07f5be2",
@@ -257,7 +352,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "dc798b83add3",
@@ -270,7 +370,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "8065d12a4d2f",
@@ -283,7 +388,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "0e4ac259d217",
@@ -296,7 +406,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "2d3b7bb80920",
@@ -309,7 +424,12 @@
         "sub_catagory": "computer accessories",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 6
+        "warranty": 6,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "01980bbc7c8c",
@@ -322,7 +442,12 @@
         "sub_catagory": "computer",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "7d73678c0f28",
@@ -335,7 +460,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "065b6eb12344",
@@ -348,7 +478,12 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "e32931084e23",
@@ -361,7 +496,12 @@
         "sub_catagory": "computer",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "1aa500764cbd",
@@ -374,7 +514,12 @@
         "sub_catagory": "camara",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "a2962feb14f4",
@@ -387,7 +532,12 @@
         "sub_catagory": "camara",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "a24528987a75",
@@ -400,7 +550,12 @@
         "sub_catagory": "mobile",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "8428138bb1ae",
@@ -413,7 +568,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "eb3003086611",
@@ -426,7 +586,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "d668c4487979",
@@ -439,7 +604,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "0547fda285f6",
@@ -452,7 +622,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "2bff50c652a2",
@@ -465,7 +640,12 @@
         "sub_catagory": "mobile",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "c22b62d2a7b3",
@@ -478,7 +658,12 @@
         "sub_catagory": "mobile",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "b75023c48f4f",
@@ -491,7 +676,12 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "dac89ffe9b56",
@@ -504,7 +694,12 @@
         "sub_catagory": "watch",
         "country_origin": "india",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "247b23fe5ade",
@@ -517,7 +712,12 @@
         "sub_catagory": "watch",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "fe46c8aefc30",
@@ -530,7 +730,12 @@
         "sub_catagory": "watch",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "3befd40fd17a",
@@ -539,11 +744,16 @@
         "name": "smart watch",
         "price": 87,
         "former_price": 95,
-        "brand": "samsung",
+        "brand": "apple",
         "sub_catagory": "watch",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "f977fa12eddf",
@@ -556,7 +766,12 @@
         "sub_catagory": "watch",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "adaadcaa2460",
@@ -569,7 +784,12 @@
         "sub_catagory": "watch",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "c4a3942d3acf",
@@ -582,7 +802,12 @@
         "sub_catagory": "monitor",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "f3d6b573deb8",
@@ -595,7 +820,12 @@
         "sub_catagory": "monitor",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "cc559b1ecad1",
@@ -608,7 +838,12 @@
         "sub_catagory": "monitor",
         "country_origin": "china",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": ""
+        }
     },
     {
         "id": "703f0eb9e437",
@@ -621,7 +856,12 @@
         "sub_catagory": "monitor",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "80ce9b88a853",
@@ -634,7 +874,12 @@
         "sub_catagory": "laptop",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "37561b2e2302",
@@ -647,7 +892,12 @@
         "sub_catagory": "laptop",
         "country_origin": "korea",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "6f96c7aa20e2",
@@ -660,7 +910,12 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "73bc0b1bc230",
@@ -673,7 +928,12 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "",
+            "popular": "popular",
+            "seclect__of__the__month": "excellent"
+        }
     },
     {
         "id": "c825e8ee283f",
@@ -686,6 +946,11 @@
         "sub_catagory": "laptop",
         "country_origin": "u.s.a",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, unde? Voluptatum et quaerat quo placeat, quia quibusdam cupiditate voluptatem obcaecati?",
-        "warranty": 1
+        "warranty": 1,
+        "choice": {
+            "recomanded": "recomanded",
+            "popular": "",
+            "seclect__of__the__month": ""
+        }
     }
 ]
